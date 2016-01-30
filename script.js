@@ -8,5 +8,3 @@ for (var i = 1; i < table.rows.length; i++) {
   }
   mainArr.push(tempArr);
 }
-
-alert(mainArr.length)
